@@ -1,17 +1,17 @@
 ## Hi there 👋, My name is Hilary Udo, a fullstack developer. Welcome to my profile
 ---
-## 🌟ABOUT ME
+## 🌟About Me
 I enjoy building modern, scalable web applications and solving real-world problems with code. My main focus is the MERN stack (MongoDB, Express, React, Node.js) where I design responsive user interfaces, develop robust backend APIs and build complete full-stack platforms. I enjoy learning new technologies, improving system architecture skills and turning ideas into practical digital solutions. This GitHub profile is a collection of my projects, experiments and learning journey as I continue growing as a developer. So feel free to explore my repositories and don't hesitate to connect if you'd like to collaborate or discuss tech.
 
 ---
-## 📫CONNECT WITH ME
+## 📫Connect With Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilaryudo9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_hilaree/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-ashen-beta-25.vercel.app/)
 
 ---
-## 🧰LANGUAGES AND TOOLS
+## 🧰Languages And Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,11 +30,17 @@ I enjoy building modern, scalable web applications and solving real-world proble
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-## 🔭WHAT I'M CURRENTLY WORKING ON
+## 🔭What I'm Curently Working On
 **Currently Learning:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![AI Automation](https://img.shields.io/badge/AI_Automation-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
+**🚀 What I'm Exploring Right Now**
+- Building real-world **full-stack web applications** using the MERN stack  
+- Experimenting with **better ways to structure React applications** for scalability  
+- Working with **APIs, authentication systems, and database integrations**  
+- Improving my ability to turn **ideas into functional products**  
+- Looking for opportunities to **grow through collaboration and real projects**
 ---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilaryudo&show_icons=true)
@@ -49,6 +55,14 @@ I enjoy building modern, scalable web applications and solving real-world proble
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=hilaryudo&color=blue)
+
+---
+## ⚡ Fun Facts
+
+- 🐛 Debugging sometimes feels like detective work — and I enjoy the challenge  
+- ⚙️ I enjoy experimenting with new tools and frameworks in my free time  
+- 🌱 I'm always learning something new in tech  
+- 💡 I like turning small ideas into working applications
 
 **Thanks for visiting😊**
 
