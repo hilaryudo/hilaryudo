@@ -6,7 +6,7 @@ I enjoy building modern, scalable web applications and solving real-world proble
 ---
 ## 📫Connect With Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilaryudo9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hilaryudo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_hilaree/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-ashen-beta-25.vercel.app/)
 
